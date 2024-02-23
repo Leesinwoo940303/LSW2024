@@ -613,7 +613,7 @@ h4 {
 }
 
 .DESIGN {
-  margin-top: -42%;
+  margin-top: -44%;
 
 }
 
@@ -1133,7 +1133,7 @@ h6 {
   width: 90%;
   height: 60%;
   transition: opacity 0.6s ease, transform 0.3s ease;
-  bottom: -160px;
+  bottom: -80px;
 }
 
 .swiper-container:hover .swiper-button-prev,
@@ -1237,8 +1237,6 @@ h6 {
 }
 
 
-
-
 .Btn {
   border: none;
   border-radius: 50%;
@@ -1255,7 +1253,7 @@ h6 {
   backdrop-filter: blur(7.8px);
   -webkit-backdrop-filter: blur(7.8px);
   overflow: hidden;
-  bottom: -850px;
+  bottom: -800px;
   right: 90px;
 
 }
